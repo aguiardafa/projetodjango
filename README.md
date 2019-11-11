@@ -2,7 +2,8 @@
 Projeto criado para estudo sobre Django no módulo específico do www.python.pro.br
 
 [![Build Status](https://travis-ci.org/aguiardafa/projetodjango.svg?branch=master)](https://travis-ci.org/aguiardafa/projetodjango)
-
+[![Updates](https://pyup.io/repos/github/aguiardafa/projetodjango/shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
+[![Python 3](https://pyup.io/repos/github/aguiardafa/projetodjango/python-3-shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
 
 ### Curso Django da Pythonpro
 Módulo para exemplificar construção de web sites em Python
