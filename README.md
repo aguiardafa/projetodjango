@@ -1,6 +1,9 @@
 # projetodjango
 Projeto criado para estudo sobre Django no módulo específico do www.python.pro.br
 
+[![Build Status](https://travis-ci.org/aguiardafa/projetodjango.svg?branch=master)](https://travis-ci.org/aguiardafa/projetodjango)
+
+
 ### Curso Django da Pythonpro
 Módulo para exemplificar construção de web sites em Python
 
@@ -25,3 +28,5 @@ pipenv run flake8
 Tópicos a abordados na montagem do projeto:
 1. Pipenv
 2. Flake8
+3. TravisCI
+4. Pyup
