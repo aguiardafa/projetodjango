@@ -31,3 +31,4 @@ Tópicos a abordados na montagem do projeto:
 2. Flake8
 3. TravisCI
 4. Pyup
+5. Deploy Heroku
