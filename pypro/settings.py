@@ -25,7 +25,7 @@ SECRET_KEY = 'lkv53ti&$rmgrsi@==3tq=-_ykz8c)gh=xet$wt=c)5#5@4xc5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
