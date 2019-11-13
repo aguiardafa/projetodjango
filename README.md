@@ -1,6 +1,8 @@
 # projetodjango
 Projeto criado para estudo sobre Django no módulo específico do www.python.pro.br
 
+Aplicação disponível em https://projetodjangopypro.herokuapp.com/
+
 [![Build Status](https://travis-ci.org/aguiardafa/projetodjango.svg?branch=master)](https://travis-ci.org/aguiardafa/projetodjango)
 [![Updates](https://pyup.io/repos/github/aguiardafa/projetodjango/shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
 [![Python 3](https://pyup.io/repos/github/aguiardafa/projetodjango/python-3-shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
@@ -23,7 +25,7 @@ pipenv sync --dev
 Para conferir qualidade de código:
 
 ```console
-pipenv run flake8
+pipenv run flake8 .
 ```
 
 Tópicos a abordados na montagem do projeto:
