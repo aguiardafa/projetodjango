@@ -7,6 +7,7 @@ Aplicação disponível em https://projetodjangopypro.herokuapp.com/
 [![Updates](https://pyup.io/repos/github/aguiardafa/projetodjango/shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
 [![Python 3](https://pyup.io/repos/github/aguiardafa/projetodjango/python-3-shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
 
+
 ### Curso Django da Pythonpro
 Módulo para exemplificar construção de web sites em Python
 
@@ -34,3 +35,5 @@ Tópicos a abordados na montagem do projeto:
 3. TravisCI
 4. Pyup
 5. Deploy Heroku
+6. Pytest-django
+7. Pytest-cov / Codecov
