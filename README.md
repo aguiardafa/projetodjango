@@ -6,7 +6,7 @@ Aplicação disponível em https://projetodjangopypro.herokuapp.com/
 [![Build Status](https://travis-ci.org/aguiardafa/projetodjango.svg?branch=master)](https://travis-ci.org/aguiardafa/projetodjango)
 [![Updates](https://pyup.io/repos/github/aguiardafa/projetodjango/shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
 [![Python 3](https://pyup.io/repos/github/aguiardafa/projetodjango/python-3-shield.svg)](https://pyup.io/repos/github/aguiardafa/projetodjango/)
-
+[![codecov](https://codecov.io/gh/aguiardafa/projetodjango/branch/master/graph/badge.svg)](https://codecov.io/gh/aguiardafa/projetodjango)
 
 ### Curso Django da Pythonpro
 Módulo para exemplificar construção de web sites em Python
