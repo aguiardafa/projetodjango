@@ -21,6 +21,7 @@ Para instalar:
 ```console
 python3 -m pip install pipenv
 pipenv sync --dev
+cp contrib/env-sample .env
 ```
 
 Para conferir qualidade de código:
@@ -37,3 +38,4 @@ Tópicos a abordados na montagem do projeto:
 5. Deploy Heroku
 6. Pytest-django
 7. Pytest-cov / Codecov
+8. Python-decouple
