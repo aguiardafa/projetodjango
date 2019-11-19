@@ -12,6 +12,7 @@ codecov = "*"
 django = "*"
 flake8 = "*"
 gunicorn = "*"
+python-decouple = "*"
 
 [requires]
 python_version = "3.7"
