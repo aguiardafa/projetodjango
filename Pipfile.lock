@@ -25,17 +25,17 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:ef41b9c7b6311d5152bdc78f7de56912c1ed265debf7da14133e1ad00246ad50",
-                "sha256:f165790439117e3fd40f8c06826845068852a70ca5ac62adb192405c97f117e1"
+                "sha256:05f4438607e560624caadb073c6c63181eda9bf74f8a9e4581e7b43d641cc683",
+                "sha256:8e7a6d70cefa4e125466e0c467b489649cb72e3632997844bc3c382f948c46e4"
             ],
-            "version": "==1.21.27"
+            "version": "==1.21.32"
         },
         "botocore": {
             "hashes": [
-                "sha256:2c11db4b94b4b9504d2782acb758d29a7e5cbdfaa826601f222ac9ddcf004dde",
-                "sha256:88e19efcaead99426434d9898d211093b8a8d0cc90af3b84a4ccb9f196894e87"
+                "sha256:4f08eaaa93ee03f14de760031dd060cda3bd6aab734d194a916dbb8f7e5c7085",
+                "sha256:5c2dab84f21b2a8c00bdab2150149be0ca0c8e8dd0b38712fa3562af5cfe53a2"
             ],
-            "version": "==1.24.27"
+            "version": "==1.24.32"
         },
         "dj-database-url": {
             "hashes": [
@@ -421,10 +421,10 @@
         },
         "zipp": {
             "hashes": [
-                "sha256:9f50f446828eb9d45b267433fd3e9da8d801f614129124863f9c51ebceafb87d",
-                "sha256:b47250dd24f92b7dd6a0a8fc5244da14608f3ca90a5efcd37a3b1642fac9a375"
+                "sha256:56bf8aadb83c24db6c4b577e13de374ccfb67da2078beba1d037c17980bf43ad",
+                "sha256:c4f6e5bbf48e74f7a38e7cc5b0480ff42b0ae5178957d564d18932525d5cf099"
             ],
-            "version": "==3.7.0"
+            "version": "==3.8.0"
         }
     }
 }
