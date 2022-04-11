@@ -25,17 +25,17 @@
         },
         "boto3": {
             "hashes": [
-                "sha256:05f4438607e560624caadb073c6c63181eda9bf74f8a9e4581e7b43d641cc683",
-                "sha256:8e7a6d70cefa4e125466e0c467b489649cb72e3632997844bc3c382f948c46e4"
+                "sha256:013ba57295f05da141e364191dd46f4086e8fe3eb83a3cd09730eeb684ffbab3",
+                "sha256:1e845aa92b3ad70b954329b98835135c28b3000e322ff8d3fc46a956bdb6e94b"
             ],
-            "version": "==1.21.32"
+            "version": "==1.21.37"
         },
         "botocore": {
             "hashes": [
-                "sha256:4f08eaaa93ee03f14de760031dd060cda3bd6aab734d194a916dbb8f7e5c7085",
-                "sha256:5c2dab84f21b2a8c00bdab2150149be0ca0c8e8dd0b38712fa3562af5cfe53a2"
+                "sha256:21e164a213beca36033c46026bffa62f2ee2cd2600777271f9a551fb34dba006",
+                "sha256:70c48c4ae3c2b9ec0ca025385979d01f4c7dae4d9a61c82758d4cf7caa7082cd"
             ],
-            "version": "==1.24.32"
+            "version": "==1.24.37"
         },
         "dj-database-url": {
             "hashes": [
@@ -47,10 +47,10 @@
         },
         "django": {
             "hashes": [
-                "sha256:1239218849e922033a35d2a2f777cb8bee18bd725416744074f455f34ff50d0c",
-                "sha256:77ff2e7050e3324c9b67e29b6707754566f58514112a9ac73310f60cd5261930"
+                "sha256:07c8638e7a7f548dc0acaaa7825d84b7bd42b10e8d22268b3d572946f1e9b687",
+                "sha256:4e8177858524417563cc0430f29ea249946d831eacb0068a1455686587df40b5"
             ],
-            "version": "==4.0.3"
+            "version": "==4.0.4"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -365,10 +365,10 @@
         },
         "pyparsing": {
             "hashes": [
-                "sha256:18ee9022775d270c55187733956460083db60b37d0d0fb357445f3094eed3eea",
-                "sha256:a6c06a88f252e6c322f65faf8f418b16213b51bdfaece0524c1c1bc30c63c484"
+                "sha256:7bf433498c016c4314268d95df76c81b842a4cb2b276fa3312cfb1e1d85f6954",
+                "sha256:ef7b523f6356f763771559412c0d7134753f037822dad1b16945b7b846f7ad06"
             ],
-            "version": "==3.0.7"
+            "version": "==3.0.8"
         },
         "pytest": {
             "hashes": [
