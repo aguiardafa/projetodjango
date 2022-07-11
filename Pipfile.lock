@@ -24,18 +24,12 @@
             "version": "==3.5.2"
         },
         "boto3": {
-            "hashes": [
-                "sha256:67d404c643091d4aa37fc485193289ad859f1f65f94d0fa544e13bdd1d4187c1",
-                "sha256:c9a9f893561f64f5b81de197714ac4951251a328672a8dba28ad4c4a589c3adf"
-            ],
-            "version": "==1.24.22"
+            "hashes": [],
+            "version": "==1.24.26"
         },
         "botocore": {
-            "hashes": [
-                "sha256:7145d9b7cae87999a9f074de700d02a1b3222ee7d1863aa631ff56c5fc868035",
-                "sha256:f57cb33446deef92e552b0be0e430d475c73cf64bc9e46cdb4783cdfe39cb6bb"
-            ],
-            "version": "==1.27.22"
+            "hashes": [],
+            "version": "==1.27.26"
         },
         "dj-database-url": {
             "hashes": [
@@ -67,11 +61,8 @@
             "version": "==1.12.3"
         },
         "docutils": {
-            "hashes": [
-                "sha256:23010f129180089fbcd3bc08cfefccb3b890b0050e1ca00c867036e9d161b98c",
-                "sha256:679987caf361a7539d76e584cbeddc311e3aee937877c87346f31debc63e9d06"
-            ],
-            "version": "==0.18.1"
+            "hashes": [],
+            "version": "==0.19"
         },
         "entrypoints": {
             "hashes": [
@@ -225,20 +216,14 @@
             "version": "==0.4.2"
         },
         "urllib3": {
-            "hashes": [
-                "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
-                "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
-            ],
-            "version": "==1.26.9"
+            "hashes": [],
+            "version": "==1.26.10"
         }
     },
     "develop": {
         "atomicwrites": {
-            "hashes": [
-                "sha256:6d1784dea7c0c8d4a5172b6c620f40b6e4cbfdf96d783691f2e1302a7b88e197",
-                "sha256:ae70396ad1a434f9c7046fd2dd196fc04b12f9e91ffb859164193be8b6168a7a"
-            ],
-            "version": "==1.4.0"
+            "hashes": [],
+            "version": "==1.4.1"
         },
         "attrs": {
             "hashes": [
@@ -407,11 +392,8 @@
             "version": "==1.16.0"
         },
         "urllib3": {
-            "hashes": [
-                "sha256:44ece4d53fb1706f667c9bd1c648f5469a2ec925fcf3a776667042d645472c14",
-                "sha256:aabaf16477806a5e1dd19aa41f8c2b7950dd3c746362d7e3223dbe6de6ac448e"
-            ],
-            "version": "==1.26.9"
+            "hashes": [],
+            "version": "==1.26.10"
         },
         "wcwidth": {
             "hashes": [
