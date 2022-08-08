@@ -25,22 +25,19 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.24.42"
+            "version": "==1.24.46"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.27.42"
+            "version": "==1.27.46"
         },
         "dj-database-url": {
             "hashes": [],
             "version": "==1.0.0"
         },
         "django": {
-            "hashes": [
-                "sha256:a67a793ff6827fd373555537dca0da293a63a316fe34cb7f367f898ccca3c3ae",
-                "sha256:ca54ebedfcbc60d191391efbf02ba68fb52165b8bf6ccd6fe71f098cac1fe59e"
-            ],
-            "version": "==4.0.6"
+            "hashes": [],
+            "version": "==4.1"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -50,11 +47,8 @@
             "version": "==0.5"
         },
         "django-storages": {
-            "hashes": [
-                "sha256:204a99f218b747c46edbfeeb1310d357f83f90fa6a6024d8d0a3f422570cee84",
-                "sha256:a475edb2f0f04c4f7e548919a751ecd50117270833956ed5bd585c0575d2a5e7"
-            ],
-            "version": "==1.12.3"
+            "hashes": [],
+            "version": "==1.13.1"
         },
         "docutils": {
             "hashes": [],
@@ -69,7 +63,7 @@
         },
         "flake8": {
             "hashes": [],
-            "version": "==5.0.1"
+            "version": "==5.0.4"
         },
         "gunicorn": {
             "hashes": [
@@ -154,7 +148,7 @@
         },
         "pycodestyle": {
             "hashes": [],
-            "version": "==2.9.0"
+            "version": "==2.9.1"
         },
         "pyflakes": {
             "hashes": [],
@@ -247,7 +241,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==6.4.2"
+            "version": "==6.4.3"
         },
         "idna": {
             "hashes": [
