@@ -25,11 +25,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.24.46"
+            "version": "==1.24.56"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.27.46"
+            "version": "==1.27.56"
         },
         "dj-database-url": {
             "hashes": [],
@@ -169,11 +169,8 @@
             "version": "==3.6"
         },
         "pytz": {
-            "hashes": [
-                "sha256:1e760e2fe6a8163bc0b3d9a19c4f84342afa0a2affebfaa84b01b978a02ecaa7",
-                "sha256:e68985985296d9a66a881eb3193b0906246245294a881e7c8afe623866ac6a5c"
-            ],
-            "version": "==2022.1"
+            "hashes": [],
+            "version": "==2022.2.1"
         },
         "s3transfer": {
             "hashes": [
@@ -241,7 +238,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==6.4.3"
+            "version": "==6.4.4"
         },
         "idna": {
             "hashes": [
@@ -258,11 +255,8 @@
             "version": "==4.12.0"
         },
         "more-itertools": {
-            "hashes": [
-                "sha256:a42901a0a5b169d925f6f217cd5a190e32ef54360905b9c39ee7db5313bfec0f",
-                "sha256:c5122bffc5f104d37c1626b8615b511f3427aa5389b94d61e5ef8236bfbc3ddb"
-            ],
-            "version": "==8.13.0"
+            "hashes": [],
+            "version": "==8.14.0"
         },
         "packaging": {
             "hashes": [
