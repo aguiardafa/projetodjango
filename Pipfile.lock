@@ -25,11 +25,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.24.70"
+            "version": "==1.24.80"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.27.70"
+            "version": "==1.27.80"
         },
         "dj-database-url": {
             "hashes": [],
@@ -187,11 +187,8 @@
             "version": "==1.16.0"
         },
         "sqlparse": {
-            "hashes": [
-                "sha256:0c00730c74263a94e5a9919ade150dfc3b19c574389985446148402998287dae",
-                "sha256:48719e356bb8b42991bdbb1e8b83223757b93789c00910a616a071910ca4a64d"
-            ],
-            "version": "==0.4.2"
+            "hashes": [],
+            "version": "==0.4.3"
         },
         "urllib3": {
             "hashes": [],
@@ -209,7 +206,7 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2022.6.15.1"
+            "version": "==2022.9.24"
         },
         "chardet": {
             "hashes": [
@@ -238,11 +235,8 @@
             "version": "==6.4.4"
         },
         "idna": {
-            "hashes": [
-                "sha256:84d9dd047ffa80596e0f246e2eab0b391788b0503584e8945f2368256d2735ff",
-                "sha256:9d643ff0a55b762d5cdb124b8eaa99c66322e2157b69160bc32796e824360e6d"
-            ],
-            "version": "==3.3"
+            "hashes": [],
+            "version": "==3.4"
         },
         "importlib-metadata": {
             "hashes": [
