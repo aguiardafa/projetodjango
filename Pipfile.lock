@@ -29,7 +29,7 @@
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.29.8"
+            "version": "==1.29.13"
         },
         "dj-database-url": {
             "hashes": [],
