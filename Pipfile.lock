@@ -45,7 +45,7 @@
         },
         "django-storages": {
             "hashes": [],
-            "version": "==1.13.1"
+            "version": "==1.13.2"
         },
         "docutils": {
             "hashes": [],
