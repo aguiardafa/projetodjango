@@ -107,7 +107,7 @@
         },
         "pytz": {
             "hashes": [],
-            "version": "==2022.6"
+            "version": "==2022.7.1"
         },
         "s3transfer": {
             "hashes": [
