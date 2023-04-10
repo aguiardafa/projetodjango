@@ -84,7 +84,7 @@
         },
         "psycopg2-binary": {
             "hashes": [],
-            "version": "==2.9.5"
+            "version": "==2.9.6"
         },
         "pycodestyle": {
             "hashes": [],
