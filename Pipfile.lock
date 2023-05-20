@@ -22,19 +22,19 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.26.69"
+            "version": "==1.26.133"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.29.69"
+            "version": "==1.29.133"
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==1.2.0"
+            "version": "==2.0.0"
         },
         "django": {
             "hashes": [],
-            "version": "==4.1.6"
+            "version": "==4.2.1"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -49,7 +49,7 @@
         },
         "docutils": {
             "hashes": [],
-            "version": "==0.19"
+            "version": "==0.20"
         },
         "entrypoints": {
             "hashes": [
@@ -84,7 +84,7 @@
         },
         "psycopg2-binary": {
             "hashes": [],
-            "version": "==2.9.5"
+            "version": "==2.9.6"
         },
         "pycodestyle": {
             "hashes": [],
@@ -103,18 +103,15 @@
         },
         "python-decouple": {
             "hashes": [],
-            "version": "==3.7"
+            "version": "==3.8"
         },
         "pytz": {
             "hashes": [],
-            "version": "==2022.7.1"
+            "version": "==2023.3"
         },
         "s3transfer": {
-            "hashes": [
-                "sha256:06176b74f3a15f61f1b4f25a1fc29a4429040b7647133a463da8fa5bd28d5ecd",
-                "sha256:2ed07d3866f523cc561bf4a00fc5535827981b117dd7876f036b0c1aca42c947"
-            ],
-            "version": "==0.6.0"
+            "hashes": [],
+            "version": "==0.6.1"
         },
         "six": {
             "hashes": [
@@ -125,11 +122,11 @@
         },
         "sqlparse": {
             "hashes": [],
-            "version": "==0.4.3"
+            "version": "==0.4.4"
         },
         "urllib3": {
             "hashes": [],
-            "version": "==1.26.14"
+            "version": "==2.0.2"
         }
     },
     "develop": {
@@ -139,23 +136,19 @@
         },
         "attrs": {
             "hashes": [],
-            "version": "==22.2.0"
+            "version": "==23.1.0"
         },
         "certifi": {
             "hashes": [],
-            "version": "==2022.12.7"
+            "version": "==2023.5.7"
         },
         "chardet": {
             "hashes": [],
             "version": "==5.1.0"
         },
         "codecov": {
-            "hashes": [
-                "sha256:585dc217dc3d8185198ceb402f85d5cb5dbfa0c5f350a5abcdf9e347776a5b47",
-                "sha256:782a8e5352f22593cbc5427a35320b99490eb24d9dcfa2155fd99d2b75cfb635",
-                "sha256:a0da46bb5025426da895af90938def8ee12d37fcbcbbbc15b6dc64cf7ebc51c1"
-            ],
-            "version": "==2.1.12"
+            "hashes": [],
+            "version": "==2.1.13"
         },
         "colorama": {
             "hashes": [],
@@ -163,7 +156,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.1.0"
+            "version": "==7.2.5"
         },
         "idna": {
             "hashes": [],
@@ -171,15 +164,15 @@
         },
         "importlib-metadata": {
             "hashes": [],
-            "version": "==6.0.0"
+            "version": "==6.6.0"
         },
         "more-itertools": {
             "hashes": [],
-            "version": "==9.0.0"
+            "version": "==9.1.0"
         },
         "packaging": {
             "hashes": [],
-            "version": "==23.0"
+            "version": "==23.1"
         },
         "pluggy": {
             "hashes": [
@@ -204,7 +197,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==7.2.1"
+            "version": "==7.3.1"
         },
         "pytest-cov": {
             "hashes": [],
@@ -219,7 +212,7 @@
         },
         "requests": {
             "hashes": [],
-            "version": "==2.28.2"
+            "version": "==2.30.0"
         },
         "six": {
             "hashes": [
@@ -230,7 +223,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==1.26.14"
+            "version": "==2.0.2"
         },
         "wcwidth": {
             "hashes": [],
@@ -238,7 +231,7 @@
         },
         "zipp": {
             "hashes": [],
-            "version": "==3.13.0"
+            "version": "==3.15.0"
         }
     }
 }
