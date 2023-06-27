@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.26.142"
+            "version": "==1.26.160"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.29.142"
+            "version": "==1.29.160"
         },
         "dj-database-url": {
             "hashes": [],
@@ -34,7 +34,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==4.2.1"
+            "version": "==4.2.2"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -126,7 +126,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.0.2"
+            "version": "==2.0.3"
         }
     },
     "develop": {
@@ -156,7 +156,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.2.6"
+            "version": "==7.2.7"
         },
         "idna": {
             "hashes": [],
@@ -164,7 +164,7 @@
         },
         "importlib-metadata": {
             "hashes": [],
-            "version": "==6.6.0"
+            "version": "==6.7.0"
         },
         "more-itertools": {
             "hashes": [],
@@ -175,11 +175,8 @@
             "version": "==23.1"
         },
         "pluggy": {
-            "hashes": [
-                "sha256:4224373bacce55f955a878bf9cfa763c1e360858e330072059e10bad68531159",
-                "sha256:74134bbf457f031a36d68416e1509f34bd5ccc019f0bcc952c7b909d06b37bd3"
-            ],
-            "version": "==1.0.0"
+            "hashes": [],
+            "version": "==1.2.0"
         },
         "py": {
             "hashes": [
@@ -189,15 +186,12 @@
             "version": "==1.11.0"
         },
         "pyparsing": {
-            "hashes": [
-                "sha256:2b020ecf7d21b687f219b71ecad3631f644a47f01403fa1d1036b0c6416d70fb",
-                "sha256:5026bae9a10eeaefb61dab2f09052b9f4307d44aee4eda64b309723d8d206bbc"
-            ],
-            "version": "==3.0.9"
+            "hashes": [],
+            "version": "==3.1.0"
         },
         "pytest": {
             "hashes": [],
-            "version": "==7.3.1"
+            "version": "==7.4.0"
         },
         "pytest-cov": {
             "hashes": [],
@@ -223,7 +217,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.0.2"
+            "version": "==2.0.3"
         },
         "wcwidth": {
             "hashes": [],
