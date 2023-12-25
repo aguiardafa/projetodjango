@@ -109,7 +109,7 @@
         },
         "s3transfer": {
             "hashes": [],
-            "version": "==0.6.1"
+            "version": "==0.10.0"
         },
         "six": {
             "hashes": [
