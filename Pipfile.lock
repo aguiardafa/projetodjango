@@ -159,7 +159,7 @@
         },
         "importlib-metadata": {
             "hashes": [],
-            "version": "==6.7.0"
+            "version": "==7.0.1"
         },
         "more-itertools": {
             "hashes": [],
