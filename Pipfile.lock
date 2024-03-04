@@ -186,7 +186,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==7.4.0"
+            "version": "==8.1.0"
         },
         "pytest-cov": {
             "hashes": [],
