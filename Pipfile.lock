@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.34.93"
+            "version": "==1.34.98"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.34.93"
+            "version": "==1.34.98"
         },
         "dj-database-url": {
             "hashes": [],
@@ -45,7 +45,7 @@
         },
         "django-storages": {
             "hashes": [],
-            "version": "==1.14.2"
+            "version": "==1.14.3"
         },
         "docutils": {
             "hashes": [],
@@ -151,7 +151,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.5.0"
+            "version": "==7.5.1"
         },
         "idna": {
             "hashes": [],
