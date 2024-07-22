@@ -121,7 +121,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.2.1"
+            "version": "==2.2.2"
         }
     },
     "develop": {
@@ -209,7 +209,7 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.2.1"
+            "version": "==2.2.2"
         },
         "wcwidth": {
             "hashes": [],
