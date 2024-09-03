@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.35.5"
+            "version": "==1.35.10"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.5"
+            "version": "==1.35.10"
         },
         "dj-database-url": {
             "hashes": [],
@@ -135,7 +135,7 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2024.7.4"
+            "version": "==2024.8.30"
         },
         "chardet": {
             "hashes": [],
@@ -217,7 +217,7 @@
         },
         "zipp": {
             "hashes": [],
-            "version": "==3.20.0"
+            "version": "==3.20.1"
         }
     }
 }
