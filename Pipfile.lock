@@ -22,15 +22,15 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.35.44"
+            "version": "==1.35.54"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.44"
+            "version": "==1.35.54"
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==2.2.0"
+            "version": "==2.3.0"
         },
         "django": {
             "hashes": [],
@@ -190,7 +190,7 @@
         },
         "pytest-cov": {
             "hashes": [],
-            "version": "==5.0.0"
+            "version": "==6.0.0"
         },
         "pytest-django": {
             "hashes": [],
