@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.35.57"
+            "version": "==1.35.63"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.57"
+            "version": "==1.35.63"
         },
         "dj-database-url": {
             "hashes": [],
@@ -117,7 +117,7 @@
         },
         "sqlparse": {
             "hashes": [],
-            "version": "==0.5.1"
+            "version": "==0.5.2"
         },
         "urllib3": {
             "hashes": [],
@@ -151,7 +151,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.6.4"
+            "version": "==7.6.7"
         },
         "idna": {
             "hashes": [],
