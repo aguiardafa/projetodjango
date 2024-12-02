@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.35.63"
+            "version": "==1.35.72"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.63"
+            "version": "==1.35.72"
         },
         "dj-database-url": {
             "hashes": [],
@@ -106,7 +106,7 @@
         },
         "s3transfer": {
             "hashes": [],
-            "version": "==0.10.3"
+            "version": "==0.10.4"
         },
         "six": {
             "hashes": [
@@ -151,7 +151,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.6.7"
+            "version": "==7.6.8"
         },
         "idna": {
             "hashes": [],
@@ -186,7 +186,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.3"
+            "version": "==8.3.4"
         },
         "pytest-cov": {
             "hashes": [],
