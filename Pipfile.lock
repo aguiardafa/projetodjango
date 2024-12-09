@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.35.63"
+            "version": "==1.35.76"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.63"
+            "version": "==1.35.76"
         },
         "dj-database-url": {
             "hashes": [],
@@ -34,7 +34,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==5.1.3"
+            "version": "==5.1.4"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -106,14 +106,11 @@
         },
         "s3transfer": {
             "hashes": [],
-            "version": "==0.10.3"
+            "version": "==0.10.4"
         },
         "six": {
-            "hashes": [
-                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
-                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
-            ],
-            "version": "==1.16.0"
+            "hashes": [],
+            "version": "==1.17.0"
         },
         "sqlparse": {
             "hashes": [],
@@ -151,7 +148,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.6.7"
+            "version": "==7.6.9"
         },
         "idna": {
             "hashes": [],
@@ -186,7 +183,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.3"
+            "version": "==8.3.4"
         },
         "pytest-cov": {
             "hashes": [],
@@ -201,11 +198,8 @@
             "version": "==2.32.3"
         },
         "six": {
-            "hashes": [
-                "sha256:1e61c37477a1626458e36f7b1d82aa5c9b094fa4802892072e49de9c60c4c926",
-                "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"
-            ],
-            "version": "==1.16.0"
+            "hashes": [],
+            "version": "==1.17.0"
         },
         "urllib3": {
             "hashes": [],
