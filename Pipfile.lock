@@ -26,7 +26,7 @@
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.35.63"
+            "version": "==1.35.97"
         },
         "dj-database-url": {
             "hashes": [],
