@@ -22,11 +22,11 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.38.13"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.38.13"
         },
         "dj-database-url": {
             "hashes": [],
@@ -34,7 +34,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==5.2"
+            "version": "==5.2.1"
         },
         "django-s3-folder-storage": {
             "hashes": [
