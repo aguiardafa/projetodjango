@@ -183,7 +183,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.5"
+            "version": "==8.4.0"
         },
         "pytest-cov": {
             "hashes": [],
