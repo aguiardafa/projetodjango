@@ -22,19 +22,19 @@
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.38.32"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.38.32"
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==2.3.0"
+            "version": "==3.0.0"
         },
         "django": {
             "hashes": [],
-            "version": "==5.2"
+            "version": "==5.2.2"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -106,7 +106,7 @@
         },
         "s3transfer": {
             "hashes": [],
-            "version": "==0.12.0"
+            "version": "==0.13.0"
         },
         "six": {
             "hashes": [],
@@ -148,7 +148,7 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.8.0"
+            "version": "==7.8.2"
         },
         "idna": {
             "hashes": [],
@@ -168,7 +168,7 @@
         },
         "pluggy": {
             "hashes": [],
-            "version": "==1.5.0"
+            "version": "==1.6.0"
         },
         "py": {
             "hashes": [
@@ -183,7 +183,7 @@
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.5"
+            "version": "==8.4.0"
         },
         "pytest-cov": {
             "hashes": [],
@@ -211,7 +211,7 @@
         },
         "zipp": {
             "hashes": [],
-            "version": "==3.21.0"
+            "version": "==3.23.0"
         }
     }
 }
