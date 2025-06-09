@@ -34,7 +34,7 @@
         },
         "django": {
             "hashes": [],
-            "version": "==5.2"
+            "version": "==5.2.2"
         },
         "django-s3-folder-storage": {
             "hashes": [
