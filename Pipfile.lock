@@ -125,7 +125,7 @@
         },
         "attrs": {
             "hashes": [],
-            "version": "==25.3.0"
+            "version": "==26.1.0"
         },
         "certifi": {
             "hashes": [],
