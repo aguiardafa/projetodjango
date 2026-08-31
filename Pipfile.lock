@@ -18,23 +18,23 @@
     "default": {
         "asgiref": {
             "hashes": [],
-            "version": "==3.8.1"
+            "version": "==3.12.1"
         },
         "boto3": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.43.83"
         },
         "botocore": {
             "hashes": [],
-            "version": "==1.38.8"
+            "version": "==1.43.83"
         },
         "dj-database-url": {
             "hashes": [],
-            "version": "==2.3.0"
+            "version": "==3.1.2"
         },
         "django": {
             "hashes": [],
-            "version": "==5.2"
+            "version": "==6.1"
         },
         "django-s3-folder-storage": {
             "hashes": [
@@ -49,7 +49,7 @@
         },
         "docutils": {
             "hashes": [],
-            "version": "==0.21.2"
+            "version": "==0.23"
         },
         "entrypoints": {
             "hashes": [
@@ -60,18 +60,15 @@
         },
         "flake8": {
             "hashes": [],
-            "version": "==7.2.0"
+            "version": "==7.3.0"
         },
         "gunicorn": {
             "hashes": [],
-            "version": "==23.0.0"
+            "version": "==26.2.0"
         },
         "jmespath": {
-            "hashes": [
-                "sha256:02e2e4cc71b5bcab88332eebf907519190dd9e6e82107fa7f83b1003a6252980",
-                "sha256:90261b206d6defd58fdd5e85f478bf633a2901798906be2ad389150c5c60edbe"
-            ],
-            "version": "==1.0.1"
+            "hashes": [],
+            "version": "==1.1.0"
         },
         "mccabe": {
             "hashes": [
@@ -82,15 +79,15 @@
         },
         "psycopg2-binary": {
             "hashes": [],
-            "version": "==2.9.10"
+            "version": "==2.9.12"
         },
         "pycodestyle": {
             "hashes": [],
-            "version": "==2.13.0"
+            "version": "==2.14.0"
         },
         "pyflakes": {
             "hashes": [],
-            "version": "==3.3.2"
+            "version": "==3.4.0"
         },
         "python-dateutil": {
             "hashes": [],
@@ -102,11 +99,11 @@
         },
         "pytz": {
             "hashes": [],
-            "version": "==2025.2"
+            "version": "==2026.3.post1"
         },
         "s3transfer": {
             "hashes": [],
-            "version": "==0.12.0"
+            "version": "==0.19.2"
         },
         "six": {
             "hashes": [],
@@ -114,11 +111,11 @@
         },
         "sqlparse": {
             "hashes": [],
-            "version": "==0.5.3"
+            "version": "==0.6.0"
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.4.0"
+            "version": "==2.7.0"
         }
     },
     "develop": {
@@ -128,15 +125,15 @@
         },
         "attrs": {
             "hashes": [],
-            "version": "==25.3.0"
+            "version": "==26.1.0"
         },
         "certifi": {
             "hashes": [],
-            "version": "==2025.4.26"
+            "version": "==2026.7.22"
         },
         "chardet": {
             "hashes": [],
-            "version": "==5.2.0"
+            "version": "==7.6.0"
         },
         "codecov": {
             "hashes": [],
@@ -148,27 +145,27 @@
         },
         "coverage": {
             "hashes": [],
-            "version": "==7.8.0"
+            "version": "==7.16.0"
         },
         "idna": {
             "hashes": [],
-            "version": "==3.10"
+            "version": "==3.19"
         },
         "importlib-metadata": {
             "hashes": [],
-            "version": "==8.7.0"
+            "version": "==9.0.1"
         },
         "more-itertools": {
             "hashes": [],
-            "version": "==10.7.0"
+            "version": "==11.1.0"
         },
         "packaging": {
             "hashes": [],
-            "version": "==25.0"
+            "version": "==26.3"
         },
         "pluggy": {
             "hashes": [],
-            "version": "==1.5.0"
+            "version": "==1.6.0"
         },
         "py": {
             "hashes": [
@@ -179,23 +176,23 @@
         },
         "pyparsing": {
             "hashes": [],
-            "version": "==3.2.3"
+            "version": "==3.3.2"
         },
         "pytest": {
             "hashes": [],
-            "version": "==8.3.5"
+            "version": "==9.1.1"
         },
         "pytest-cov": {
             "hashes": [],
-            "version": "==6.1.1"
+            "version": "==7.1.0"
         },
         "pytest-django": {
             "hashes": [],
-            "version": "==4.11.1"
+            "version": "==4.14.0"
         },
         "requests": {
             "hashes": [],
-            "version": "==2.32.3"
+            "version": "==2.34.2"
         },
         "six": {
             "hashes": [],
@@ -203,15 +200,15 @@
         },
         "urllib3": {
             "hashes": [],
-            "version": "==2.4.0"
+            "version": "==2.7.0"
         },
         "wcwidth": {
             "hashes": [],
-            "version": "==0.2.13"
+            "version": "==0.8.3"
         },
         "zipp": {
             "hashes": [],
-            "version": "==3.21.0"
+            "version": "==4.1.0"
         }
     }
 }
