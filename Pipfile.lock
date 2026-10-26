@@ -146,7 +146,7 @@
         },
         "idna": {
             "hashes": [],
-            "version": "==3.10"
+            "version": "==3.20"
         },
         "importlib-metadata": {
             "hashes": [],
