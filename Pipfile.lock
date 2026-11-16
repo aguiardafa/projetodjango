@@ -126,7 +126,7 @@
         },
         "certifi": {
             "hashes": [],
-            "version": "==2025.4.26"
+            "version": "==2026.10.23"
         },
         "chardet": {
             "hashes": [],
