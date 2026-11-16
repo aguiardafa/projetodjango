@@ -52,11 +52,8 @@
             "version": "==0.23"
         },
         "entrypoints": {
-            "hashes": [
-                "sha256:b706eddaa9218a19ebcd67b56818f05bb27589b1ca9e8d797b74affad4ccacd4",
-                "sha256:f174b5ff827504fd3cd97cc3f8649f3693f51538c7e4bdf3ef002c8429d42f9f"
-            ],
-            "version": "==0.4"
+            "hashes": [],
+            "version": "==0.4.2"
         },
         "flake8": {
             "hashes": [],
